@@ -1,0 +1,9 @@
+Hello, World!
+Ini adalah contoh penulisan ke dalam file.
+Semoga bermanfaat untuk belajar Python!
+Terima kasih sudah membaca.
+Selamat belajar dan semangat terus!
+Python adalah bahasa pemrograman yang menyenangkan.
+Jangan lupa untuk terus berlatih dan eksplorasi.
+Sampai jumpa di pembelajaran berikutnya!
+Semoga hari anda menyenangkan!

@@ -1,0 +1,11 @@
+with open("Hari_2/file/data.txt", "w") as file:
+    file.write("Hello, World!\n")
+    file.write("Ini adalah contoh penulisan ke dalam file.\n")
+    file.write("Semoga bermanfaat untuk belajar Python!\n")
+    file.write("Terima kasih sudah membaca.\n")
+    file.write("Selamat belajar dan semangat terus!\n")
+    file.write("Python adalah bahasa pemrograman yang menyenangkan.\n")
+    file.write("Jangan lupa untuk terus berlatih dan eksplorasi.\n")
+    file.write("Sampai jumpa di pembelajaran berikutnya!\n")
+    file.write("Semoga hari anda menyenangkan!\n")
+    file.write("Terimakasih sudah menggunakan Python untuk belajar.\n")
